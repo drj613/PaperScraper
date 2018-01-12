@@ -1,0 +1,19 @@
+{
+  "name": "paperscraper",
+  "version": "1.0.0",
+  "description": "Web scraper app that pulls articles and allows viewers to comment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drj613/PaperScraper.git"
+  },
+  "author": "DJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drj613/PaperScraper/issues"
+  },
+  "homepage": "https://github.com/drj613/PaperScraper#readme"
+}
